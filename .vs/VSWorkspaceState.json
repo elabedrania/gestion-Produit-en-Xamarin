@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\GestionProduit",
+    "\\GestionProduit\\GestionProduit",
+    "\\GestionProduit\\GestionProduit\\Entity",
+    "\\GestionProduit\\GestionProduit\\Properties",
+    "\\GestionProduit\\GestionProduit\\View",
+    "\\GestionProduit\\GestionProduit\\ViewModel"
+  ],
+  "SelectedNode": "\\GestionProduit\\GestionProduit\\ViewModel\\AddProductVM.cs",
+  "PreviewInSolutionExplorer": false
+}
